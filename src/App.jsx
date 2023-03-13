@@ -1,6 +1,6 @@
-import React,{lazy,Suspense} from 'react'
+import React from 'react'
 
-import {Routes,Route} from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 
 
 
@@ -12,16 +12,16 @@ export default function App() {
 
 
 
-<>
+    <>
 
-<Routes>
-  <Route path='/' element={<Home/>}/>
-
-
-</Routes>
-  </Suspense>
+      <Routes>
+        <Route path='/' element={<Home />} />
 
 
-</>
+      </Routes>
+
+
+
+    </>
   )
 }
