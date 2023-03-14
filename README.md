@@ -1,4 +1,7 @@
 # feature-flicks Movie App - Built with React and Bootstrap
 
 
-1. Adding Navbar Component and Render it in Homepage
+All Component will be seprated in component folder
+
+# Navbar Component
+it will be shown on each page top.
