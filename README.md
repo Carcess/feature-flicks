@@ -8,3 +8,7 @@ it will be shown on each page top.
 
 # Loading Component
 This Component will load when data is fetching from the api
+
+# Genre/Category Component
+
+This Component is to render the Movie Category, to filter the displayed Movies on Home Page.
