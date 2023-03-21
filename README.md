@@ -17,3 +17,6 @@ This Component will show  fetched movies from Api.
 This Component is to render the Movie Category, to filter the displayed Movies on Home Page.
 
 # Not Found Page
+# Movie Page
+# Home Page
+
