@@ -14,7 +14,7 @@ export default function NavComp() {
       style={{ position: "sticky", height: "fit-content", top: 0, zIndex: 2 }}
     >
       <Container>
-        <Navbar.Brand style={{ color: "white", fontWeight: "bold" }} href="#">
+        <Navbar.Brand style={{ color: "white", fontWeight: "bold" }} href="/">
         Feature Flicks
         </Navbar.Brand>
 
